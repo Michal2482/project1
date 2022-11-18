@@ -11,6 +11,7 @@ public class Project1Application {
         System.out.println("coś");
         System.out.println("coś tam");
         System.out.println("commit and push GUI");
+        System.out.println("Commit z kopii");
     }
 
 }
