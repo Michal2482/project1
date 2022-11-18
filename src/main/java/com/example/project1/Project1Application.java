@@ -10,6 +10,7 @@ public class Project1Application {
         SpringApplication.run(Project1Application.class, args);
         System.out.println("coś");
         System.out.println("coś tam");
+        System.out.println("commit and push GUI");
     }
 
 }
